@@ -1,2 +1,4 @@
 # Dex_F3X
-F3X Version Of Dex Explorer By Me
+Just DEX Explorer With F3X 
++TP All
+#Made "Delete" Server Sided
